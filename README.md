@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarvesh
 - 👀 I’m interested in creating music, trading, and of course coding and developing software
-- 🌱 I’m currently learning HTML, CSS, Javascript, JavaFx, C++, and SQL.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java, JavaFx, C/C++, SQL, and Python.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: gmail: aarveshbelani@gmail.com
 - 😄 Pronouns: He/Him
